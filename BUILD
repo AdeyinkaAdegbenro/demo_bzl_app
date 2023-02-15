@@ -23,6 +23,6 @@ load("@aspect_rules_js//npm:defs.bzl", "npm_package")
 
 npm_package(
     name="demo_bzl_app",
-    srcs = [":transpile", "readme.md", "package.json"],
+    srcs = [":transpile", "README.md", "package.json"],
     package="demo_bzl_app",
 )
