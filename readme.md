@@ -1,0 +1,1 @@
+This is a demo TypeScript app used to demonstrate usage of [Bazel](https://bazel.build/docs)
